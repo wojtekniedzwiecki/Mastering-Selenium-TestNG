@@ -152,7 +152,7 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite thread-count=&quot;2&quot; verbose=&quot;0&quot; name=&quot;Surefire suite&quot; parallel=&quot;methods&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; verbose=&quot;0&quot; name=&quot;Surefire suite&quot; parallel=&quot;methods&quot;&gt;
   &lt;test name=&quot;Surefire test&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.masteringselenium.BasicTestWD&quot;/&gt;
@@ -197,18 +197,18 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'googleMilkExample')
+data.setCell(0, 1, 'googleCheeseExample')
 data.setCell(0, 2, 'com.masteringselenium.BasicTestWD')
-data.setCell(0, 3, 17317);
+data.setCell(0, 3, 13052);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'googleCheeseExample')
+data.setCell(1, 1, 'googleMilkExample')
 data.setCell(1, 2, 'com.masteringselenium.BasicTestWD')
-data.setCell(1, 3, 17220);
+data.setCell(1, 3, 5316);
 window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 34 seconds</span>
+              <span class="suite-total-time">Total running time: 18 seconds</span>
               <div id="times-div-Surefire_suite">
               </div> <!-- times-div-Surefire_suite -->
             </div> <!-- times-div -->
@@ -240,24 +240,24 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="test-method">
-                <span class="method-name">googleMilkExample</span>
-                <span class="method-start">55 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
                 <span class="method-name">googleCheeseExample</span>
-                <span class="method-start">55 ms</span>
+                <span class="method-start">26 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">clearCookies</span>
-                <span class="method-start">17275 ms</span>
+                <span class="method-start">13079 ms</span>
               </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">googleMilkExample</span>
+                <span class="method-start">13208 ms</span>
+              </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">clearCookies</span>
-                <span class="method-start">17372 ms</span>
+                <span class="method-start">18524 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-suite after">
                 <span class="method-name">closeDriverObjects</span>
-                <span class="method-start">17427 ms</span>
+                <span class="method-start">18746 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
