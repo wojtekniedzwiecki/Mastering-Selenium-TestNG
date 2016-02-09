@@ -17,3 +17,12 @@ target/failsafe-reports/old/Surefire suite/index.html
 target/failsafe-reports/testng-reports.css
 *.xml
 target/test-classes/com/masteringselenium/BasicTestWD.class
+target/failsafe-reports/com.masteringselenium.BasicTestWD.txt
+*.html
+target/failsafe-reports/index.html
+*.html
+target/failsafe-reports/old/Surefire suite/methods.html
+*.xml
+target/failsafe-reports/testng-results.xml
+target/maven-archiver/pom.properties
+*.class
