@@ -4,8 +4,7 @@
         <driver id="internetexplorer">
             <version id="2.45.0">
                 <bitrate sixtyfourbit="true">
-                    <filelocation>http://selenium-release.
-                        storage.googleapis.com/2.45/IEDriverServer_x64_2.45.0.zip</filelocation>
+                    <filelocation>http://selenium-release.storage.googleapis.com/2.45/IEDriverServer_x64_2.45.0.zip</filelocation>
                     <hash>b3cdacc846d7b9c3f8fb8b70af0a9cfc5839bd83</hash>
                     <hashtype>sha1</hashtype>
                 </bitrate>
@@ -19,9 +18,7 @@
         <driver id="googlechrome">
             <version id="2.14">
                 <bitrate thirtytwobit="true" sixtyfourbit="true">
-                    <filelocation>http://chromedriver.storage.
-                        googleapis.com/2.14/chromedriver_win32.zip
-                    </filelocation>
+                    <filelocation>http://chromedriver.storage.googleapis.com/2.14/chromedriver_win32.zip</filelocation>
                     <hash>4fe4aaf625073c39c29da994d815ffcc2c314c40
                     </hash>
                     <hashtype>sha1</hashtype>
