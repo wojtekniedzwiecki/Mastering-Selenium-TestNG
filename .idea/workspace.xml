@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10aa8f38-7883-49de-9a53-15b1f1607562" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mastering-selenium-testng-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/mastering-selenium-testng-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/masteringselenium/BasicTestWD.class" afterPath="$PROJECT_DIR$/target/test-classes/com/masteringselenium/BasicTestWD.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/Surefire suite/Surefire test.html" afterPath="$PROJECT_DIR$/target/failsafe-reports/Surefire suite/Surefire test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/Surefire suite/Surefire test.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/Surefire suite/Surefire test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.masteringselenium.BasicTestWD.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.masteringselenium.BasicTestWD.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/com.masteringselenium.BasicTestWD.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/com.masteringselenium.BasicTestWD.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/failsafe-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/index.html" afterPath="$PROJECT_DIR$/target/failsafe-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/junitreports/TEST-com.masteringselenium.BasicTestWD.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/junitreports/TEST-com.masteringselenium.BasicTestWD.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/old/Surefire suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/failsafe-reports/old/Surefire suite/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/old/Surefire suite/methods.html" afterPath="$PROJECT_DIR$/target/failsafe-reports/old/Surefire suite/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="Mastering Selenium TestNG.iws" />
     <ignored path=".idea/workspace.xml" />

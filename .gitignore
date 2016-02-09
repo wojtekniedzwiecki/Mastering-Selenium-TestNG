@@ -26,3 +26,4 @@ target/failsafe-reports/old/Surefire suite/methods.html
 target/failsafe-reports/testng-results.xml
 target/maven-archiver/pom.properties
 *.class
+.idea/workspace.xml
