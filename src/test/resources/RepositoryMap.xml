@@ -19,8 +19,7 @@
             <version id="2.14">
                 <bitrate thirtytwobit="true" sixtyfourbit="true">
                     <filelocation>http://chromedriver.storage.googleapis.com/2.14/chromedriver_win32.zip</filelocation>
-                    <hash>4fe4aaf625073c39c29da994d815ffcc2c314c40
-                    </hash>
+                    <hash>4fe4aaf625073c39c29da994d815ffcc2c314c40</hash>
                     <hashtype>sha1</hashtype>
                 </bitrate>
             </version>
